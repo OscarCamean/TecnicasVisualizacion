@@ -1,0 +1,7 @@
+Practica2Polinomios
+App = https://oscarcamean.shinyapps.io/PracticaModelosPolinomiales/
+
+Se trata de una aplicación de shiny en la que se genera una distribución aleatoria según el nº de observaciones y correlación,
+establecida por el usuario, que se muestra mediante un scatterplot al pulsar sobre el botón 'generar muestra'.
+
+Una vez encontrada la distribución que más guste, puede calcular una regresión polinomial que se muestra sobre el gráfico inicial.
